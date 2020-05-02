@@ -1,3 +1,5 @@
+Cpin_music is a fork of UAMP.
+
 Universal Android Music Player Sample
 =====================================
 
